@@ -88,5 +88,3 @@ divide(10, 2)   # Output: Result: 5
 divide(8, 0)    # Output: Division by zero error!
 ```
 
-**Next Steps**
-Exception handling is crucial for building robust and reliable programs. As you continue learning, you can explore more advanced topics like creating custom exception classes, logging errors, and handling exceptions in different parts of your code.
