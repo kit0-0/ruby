@@ -116,5 +116,3 @@ else
 end
 ```
 
-**Next Steps**
-Control flow and loops are essential concepts for building dynamic and interactive programs. As you continue learning, you can explore more advanced topics such as methods, classes, and modules to create more complex and organized code.
