@@ -55,6 +55,3 @@ File.open("my_file.txt", "r") do |file|
   puts content
 end
 ```
-
-**Next Steps**
-File I/O is a crucial skill for working with external data and storing program outputs. As you continue learning, you can explore more advanced topics like error handling, working with different file formats (e.g., CSV, JSON), and managing larger data sets.
