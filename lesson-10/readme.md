@@ -106,6 +106,3 @@ File.open('output.json', 'w') do |file|
   file.write(data_to_write.to_json)
 end
 ```
-
-**Next Steps**
-Working with JSON is essential for exchanging data between different systems and APIs. As you continue learning, you can explore more advanced topics like error handling when parsing JSON and working with more complex JSON structures.
