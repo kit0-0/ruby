@@ -84,6 +84,3 @@ puts matches.inspect
 masked_text = text.gsub(pattern, "[email]")
 puts masked_text
 ```
-
-**Next Steps**
-Regular expressions are a versatile tool for manipulating and analyzing text. As you continue learning, you can explore more advanced regular expression patterns, optimization techniques, and use cases in real-world applications.
