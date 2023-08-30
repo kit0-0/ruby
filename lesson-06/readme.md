@@ -95,6 +95,3 @@ car2 = Car.new("Honda", "Civic")
 car1.info  # Output: Toyota Corolla
 car2.info  # Output: Honda Civic
 ```
-
-**Next Steps**
-Object-oriented programming is a foundational concept in Ruby and many other programming languages. As you continue learning, you can explore more advanced topics like encapsulation, modules, and designing complex class hierarchies.
