@@ -109,6 +109,3 @@ students = [
 ]
 puts students[1]["name"]  # Output: Diana
 ```
-
-**Next Steps**
-Arrays and hashes are fundamental for storing and organizing data. Practice creating and manipulating arrays and hashes to build your understanding. In the next lesson, we'll dive into methods and functions, which will allow you to organize and reuse your code more effectively.
