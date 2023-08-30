@@ -75,5 +75,3 @@ resources :posts
 # Build the controller and views
 ```
 
-**Next Steps**
-Ruby on Rails is a powerful framework for building web applications. As you continue learning, you can explore more advanced topics like handling authentication and authorization, working with APIs, optimizing performance, and deploying your applications to production.
