@@ -1,4 +1,4 @@
-**Lesson 12: Advanced Topics**
+**Lesson 15: Advanced Topics**
 
 **1. Metaprogramming**
 Metaprogramming is the practice of writing code that manipulates code itself. In Ruby, you can dynamically create classes, methods, and modify behavior at runtime. While powerful, metaprogramming can make code harder to understand and maintain if used excessively.
