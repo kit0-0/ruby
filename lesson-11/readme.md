@@ -1,4 +1,4 @@
-**Lesson 9: Modules and Gems**
+**Lesson 11: Modules and Gems**
 
 **1. Introduction to Modules**
 Modules are a fundamental concept in Ruby that allow you to encapsulate methods, constants, and classes into reusable units. Modules serve as a way to organize and structure your code while preventing naming conflicts. They are particularly useful when you want to share functionality across different parts of your application.
