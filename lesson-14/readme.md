@@ -92,6 +92,3 @@ require 'httparty'
 response = HTTParty.get('https://jsonplaceholder.typicode.com/posts/1')
 puts response.body
 ```
-
-**Next Steps**
-Modules and gems are crucial concepts for organizing your code and leveraging pre-built functionality. As you continue learning, you can explore more advanced topics related to creating your own gems, using gem configuration, and exploring gems specific to your project needs.
