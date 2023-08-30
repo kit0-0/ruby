@@ -1,4 +1,4 @@
-**Lesson 5: Methods and Functions**
+**Lesson 5: c**
 
 **1. Introduction to Methods**
 Methods (also known as functions) allow you to group code into reusable blocks. They help keep your code organized and promote the "Don't Repeat Yourself" (DRY) principle.
@@ -87,6 +87,3 @@ puts text.upcase     # Output: RUBY IS FUN!
 puts text.length     # Output: 13
 puts text.include?("fun")  # Output: true
 ```
-
-**Next Steps**
-Methods are a powerful way to structure and reuse your code. As you continue learning, you can explore more advanced topics like object-oriented programming and classes to create even more sophisticated applications.
