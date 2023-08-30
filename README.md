@@ -18,8 +18,8 @@ Welcome to the Ruby Tutorial repository! This tutorial is designed to help begin
 12. [Web Scraping in Ruby](lesson-12/readme.md)
 13. [Building Web Applications with Ruby on Rails](lesson-13/readme.md)
 14. [Modules and Gems](lesson-14/readme.md)
-15. [Enumerable](lesson-15/readme.md)
-16. [Advanced Topics](lesson-16/readme.md)
+15. [Advanced Topics](lesson-15/readme.md)
+16. [Enumerable](lesson-16/readme.md)
 
 
 ## Contributing
