@@ -1,4 +1,4 @@
-**Lesson 5: c**
+**Lesson 5: Methods and Functions**
 
 **1. Introduction to Methods**
 Methods (also known as functions) allow you to group code into reusable blocks. They help keep your code organized and promote the "Don't Repeat Yourself" (DRY) principle.
