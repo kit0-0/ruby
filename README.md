@@ -21,7 +21,6 @@ Welcome to the Ruby Tutorial repository! This tutorial is designed to help begin
 15. [Advanced Topics](lesson-15/readme.md)
 16. [Enumerable](lesson-16/readme.md)
 
-
 ## Contributing
 
 We welcome contributions to improve and expand this tutorial! If you'd like to contribute, here's how:
