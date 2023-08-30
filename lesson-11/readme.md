@@ -100,5 +100,3 @@ students = Student.all
 puts students.inspect
 ```
 
-**Next Steps**
-Working with databases is essential for creating dynamic and data-driven applications. As you continue learning, you can explore more advanced topics like database relationships (e.g., one-to-many, many-to-many), optimizing database queries, and using different database systems (e.g., PostgreSQL, MySQL).
