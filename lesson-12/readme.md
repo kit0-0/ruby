@@ -75,5 +75,3 @@ titles.each_with_index do |title, index|
 end
 ```
 
-**Next Steps**
-Web scraping is a powerful technique for gathering data from websites. As you continue learning, you can explore more advanced topics like handling different types of content (e.g., JSON, XML), navigating complex websites, and implementing rate limits to be respectful of the site's policies.
